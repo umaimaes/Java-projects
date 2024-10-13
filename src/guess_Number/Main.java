@@ -11,7 +11,6 @@ public class Main {
     public static void randomNum() {
         int randomNum;
         randomNum = (int) (Math.random() * 3000)+1;
-        System.out.println(randomNum);
         System.out.println(" i'm thinking of a number between 1 and 3000, can you guess it : ");
         guessNum(randomNum);
     }
