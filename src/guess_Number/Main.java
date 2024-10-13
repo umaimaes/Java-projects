@@ -1,4 +1,4 @@
-package learning;
+package guess_Number;
 import java.util.Scanner;
 
 public class Main {
